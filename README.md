@@ -10,6 +10,7 @@
 
 [![nduvelle 42 stats](https://badge42.herokuapp.com/api/stats/nduvelle)](https://github.com/JaeSeoKim/badge42)
 
+<!-- Current project i'm working on: [![nduvelle 42Project Score](https://badge42.herokuapp.com/api/project/nduvelle/push_swap)](https://github.com/JaeSeoKim/badge42) -->
 ---
 
 ### Challenge CodinGame!
@@ -22,5 +23,4 @@
 ### GITHUB STATS!
 
 ![ConiDev's github stats](https://github-readme-stats.vercel.app/api?username=ConiDev&show_icons=true&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConiDev&layout=compact)
