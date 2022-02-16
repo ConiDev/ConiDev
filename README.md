@@ -8,7 +8,7 @@
   
   <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=ConiDev&show_icons=true&count_private=true&theme=merko"></a>
   
-  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConiDev&layout=compact&theme=merko"></a>
+<!--   <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConiDev&layout=compact&theme=merko"></a> -->
 </section>
 
 
