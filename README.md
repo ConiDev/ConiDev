@@ -5,7 +5,5 @@
   <a href="https://www.codingame.com/profile/b0f892e82085362a328f2c4a752e9e8b7420793"><img src="https://img.shields.io/badge/codingame-ConiDev-F2BB13.svg?style=flat&logo=codingame&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/nduvelle"><img src="https://img.shields.io/badge/linkedin-Nicolas%20Duvelle-0A66C2.svg?style=flat&logo=linkedin&logoColor=white"></a></br>
 
-  </br><p>My name is <strong>Nicolas Duvelle</strong>, I'm a full stack developper
-  <p>I mostly like system & network administration stuff, but also working on web application !</p>
-  <p>You can also find me on CodinGame, I love to compete in the bot arena !</p>
+  </br><p>My name is <strong>Nicolas Duvelle</strong>, I'm a DevOps engineer
 </section>
